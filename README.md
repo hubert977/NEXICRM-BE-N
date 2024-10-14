@@ -1,6 +1,6 @@
 # NEXICRM-BE-N
 
-The backend of the CRM system built with Node.js. This application provides the necessary APIs for managing customer relationships, automating sales processes, and supporting HR functions. It employs GraphQL for data retrieval and manipulation, ensuring efficient and flexible data handling.
+The backend of the CRM-HRM system built with Node.js. This application provides the necessary APIs for managing customer relationships, automating sales processes, and supporting HR functions. It employs GraphQL for data retrieval and manipulation, ensuring efficient and flexible data handling.
 
 ## Features
 - **GraphQL API**: Efficient querying and data manipulation through a single endpoint.
