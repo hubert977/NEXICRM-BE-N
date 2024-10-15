@@ -1,4 +1,4 @@
-# NEXICRM-BE-N
+# NEXIFUSION-BE-N
 
 The backend of the CRM-HRM system built with Node.js. This application provides the necessary APIs for managing customer relationships, automating sales processes, and supporting HR functions. It employs GraphQL for data retrieval and manipulation, ensuring efficient and flexible data handling.
 
